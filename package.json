@@ -22,7 +22,6 @@
             "prettier"
         ]
     },
-    "proxy": "http://cors-anywhere.herokuapp.com/",
     "browserslist": {
         "production": [
             ">0.2%",
